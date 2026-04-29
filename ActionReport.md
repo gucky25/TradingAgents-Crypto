@@ -64,3 +64,11 @@ De gebruiker vroeg om het project volgens `ReportCodex.md` aan te passen naar ee
 - Eerste commit gemaakt: `8e36c22 Adapt TradingAgents for crypto analysis`.
 - GitHub CLI (`gh`) was niet geinstalleerd; daarom is de GitHub API gebruikt via de bestaande Git credential manager.
 - Nieuwe GitHub-repository aangemaakt: `https://github.com/gucky25/TradingAgents-Crypto`.
+
+## 2026-04-29 22:45 Europe/Amsterdam
+
+### Publicatie
+
+- Remote ingesteld: `origin -> https://github.com/gucky25/TradingAgents-Crypto.git`.
+- Branch `main` gepusht naar GitHub.
+- Gepubliceerde repository: `https://github.com/gucky25/TradingAgents-Crypto`.
